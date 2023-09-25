@@ -1,2 +1,2 @@
-# PyHEP-Users-Workshop-2023
+# Python and Fast Imperative Code: Lowering the Barriers
 Python and Fast Imperative Code: Lowering the Barriers
