@@ -1,0 +1,1 @@
+The talk images directory.
