@@ -24,6 +24,6 @@ We will introduce Awkward Arrays in Julia via a recent development of Awkward Ar
 <img src="img/NSF%20logo.png" width="60" align="left"/>
 </div>
 
-Support for this work was provided by NSF cooperative agreement [OAC-1836650](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1836650) (IRIS-HEP) and PHY-2323298 and .
+Support for this work was provided by NSF cooperative agreement [OAC-1836650](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1836650) (IRIS-HEP) and PHY-2323298
 
 
