@@ -7,10 +7,11 @@ dependencies:
   - python=3.10
   - awkward==2.4.5
   - numba==0.57.1
-  - cppyy==2.4.2
   - root==6.28.4
   - julia==1.9.3
   - pip
+  - pip:
+    - git+https://github.com/wlav/cppyy.git@6ef45d7443f724d4c11b6cc369892461594cc157
 
 # conda-lock only
 platforms:
